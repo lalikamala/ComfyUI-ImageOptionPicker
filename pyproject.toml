@@ -12,4 +12,3 @@ Repository = "https://github.com/lalikamala/ComfyUI-ImageOptionPicker"
 [tool.comfy]
 PublisherId = "lalikamala"
 DisplayName = "ComfyUI Image Option Picker"
-Icon = "https://raw.githubusercontent.com/lalikamala/ComfyUI-ImageOptionPicker/main/icon.png"
