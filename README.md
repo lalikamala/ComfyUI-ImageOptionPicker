@@ -1,7 +1,7 @@
 # ImageOptionPicker
 
 > A node to pause the workflow to select one of the three generated images for further processing.
-> <img width="475" height="630" alt="iop" src="https://github.com/user-attachments/assets/9136f2d1-e486-46f1-b933-799dcee69a99" />
+> <img width="317" height="420" alt="iop" src="https://github.com/user-attachments/assets/9136f2d1-e486-46f1-b933-799dcee69a99" />
 
 
 ## 📖 Description
@@ -16,11 +16,9 @@ Please see a video with example.
 
 ## 🎬 Video examples
 
-<!-- Вставьте ссылку на первое видео ниже -->
-[![Video example 1](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)
+[![Video example 1](https://img.youtube.com/vi/oGRq9qvV_Nw/0.jpg)](https://www.youtube.com/watch?v=oGRq9qvV_Nw)
 
-<!-- Вставьте ссылку на второе видео ниже -->
-[![Video example 2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)
+[![Video example 2](https://img.youtube.com/vi/FJwyQCf8png/0.jpg)](https://www.youtube.com/watch?v=FJwyQCf8png)
 
 ## 📦 Installation
 
