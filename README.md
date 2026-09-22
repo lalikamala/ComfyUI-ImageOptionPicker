@@ -1,6 +1,8 @@
 # ImageOptionPicker
 
 > A node to pause the workflow to select one of the three generated images for further processing.
+> <img width="475" height="630" alt="iop" src="https://github.com/user-attachments/assets/9136f2d1-e486-46f1-b933-799dcee69a99" />
+
 
 ## 📖 Description
 
