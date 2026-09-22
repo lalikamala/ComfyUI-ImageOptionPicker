@@ -35,4 +35,4 @@ Then restart ComfyUI.
 
 Search for **"Image Option Picker"** in ComfyUI Manager and install.
 
-> ⚠️ **Important:** After installing via ComfyUI Manager, please **fully restart ComfyUI** — close the console window and launch it again. A soft restart (the "Restart" button in Manager) is **not enough**: the JavaScript interface of the node will not load, and the node will appear as an empty rectangle until a full restart.
+> ⚠️ **Important:** After installing via ComfyUI Manager and after applying the changes, please refresh the ComfyUI interface page.
