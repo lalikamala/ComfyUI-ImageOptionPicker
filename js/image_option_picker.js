@@ -3,7 +3,7 @@ import { api } from "../../scripts/api.js";
 
 const NODE_CLASS = "ImageOptionPicker";
 const ACTIVE_COLOR = "#0b8ce8";
-const SOUND_URL = "/extensions/ComfyUI-ImageOptionPicker/pause_option.mp3";
+const SOUND_URL = new URL("./pause_option.mp3", import.meta.url).href;
 
 const BUTTON_HEIGHT = 36;
 const BUTTON_GAP = 8;
