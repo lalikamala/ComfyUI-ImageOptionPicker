@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-imageoptionpicker"
 description = "A node to pause the workflow to select one of the three generated images for further processing."
-version = "1.0.2"
+version = "1.0.3"
 license = { file = "LICENSE" }
 requires-python = ">=3.8"
 dependencies = []
